@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+    text-size-adjust: center;
+    margin: 25px 25vw;
+    justify-self: start;
+}
+
+h1{
+    color: rgb(7, 107, 7);
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: #333333 solid;
+}
+
+h2{
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+    font-style: ormal;
+}
+
+table {
+    font-family: Arial, Helvetica, sans-serif; /* Define a família da fonte */
+    font-size: 20px;                           /* Tamanho do texto */
+    color: #333333;                            /* Cor do texto */
+}
+
+td  {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif; /* Define a fonte */
+    font-size: 20px;                           /* Tamanho do texto */
+    color: #333333;                            /* Cor do texto */
+}
+
+h3{
+    font-size: 18;
+}
+
+h4{
+    font-size: 16;
+}
+
+li {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    line-height: 1.6; /* Melhora o espaçamento entre linhas */
+    margin-bottom: 8px; /* Espaço entre um tópico e outro */
+}
+
