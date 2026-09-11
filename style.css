@@ -11,9 +11,39 @@ h1{
     font-family: Arial, Helvetica, sans-serif;
     border: #333333 solid;
 }
+#cabeçalho{
+    background-color: rgb(7, 107, 7);
+    padding: 40px;
+    margin: 10px 0vw;
+    border: #333333 solid;
+    align-items: left;
+}
+
+menu ul,
+#cabeçalho ul,
+header ul {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
 
 h2{
     font-size: 40px;
+}
+
+h3{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    color: rgb(248, 246, 246);
 }
 
 p{
